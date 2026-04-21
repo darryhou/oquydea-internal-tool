@@ -1,14 +1,24 @@
-# Internal Management System for [Linhai Yuyan Dianzishangwu Youxiangongsi]
+Internal E-commerce Management Suite
+Powered by [Linhai Yuyan Dianzishangwu Youxiangongsi]
+Project Overview
+This application is a proprietary, internal-use-only automation system designed to streamline operational workflows for our global e-commerce business.
 
-## Project Overview
-This application (OpenClaw) is a private, internal-use-only automation agent designed to optimize store operations for our Amazon business. 
-- **Core Features:** Inventory monitoring, Advertising API integration, and Sales report analysis.
+Core Functionalities: Multi-platform inventory synchronization, advertising performance monitoring, and comprehensive sales data analysis.
 
-## Privacy Policy
-1. **Data Collection:** This tool only accesses data authorized via Amazon SP-API and Advertising API.
-2. **Data Usage:** All retrieved data is used exclusively for internal business decision-making. We do not share, sell, or trade any data with third parties.
-3. **Security:** Data is processed and stored on our secure local hardware (macOS/Windows) with encryption. 
-4. **Compliance:** We strictly adhere to the Amazon Developer Acceptance Policy and Data Protection Policy.
+User Base: Access is strictly limited to authorized employees of [Linhai Yuyan Dianzishangwu Youxiangongsi].
 
-## Contact
-For any compliance inquiries, please contact: [284428940@qq.com]
+Privacy & Data Protection Policy
+Data Minimization: This tool only accesses specific data points authorized via authorized API integrations necessary for daily operations.
+
+Confidentiality: All retrieved business and performance data is used exclusively for internal strategic decision-making. We maintain a zero-sharing policy; no data is shared, sold, or traded with third-party entities.
+
+Security Infrastructure: Data is processed and stored on our secure, encrypted private infrastructure (including macOS and remote Windows instances) with strict access controls.
+
+Regulatory Compliance: Our development and data handling practices strictly adhere to international data protection standards and the developer service terms of global marketplaces.
+
+Contact & Compliance
+For any technical or compliance inquiries, please contact our internal IT department:
+
+Email: [284428940@qq.com]
+
+Organization: Linhai Yuyan Dianzishangwu Youxiangongsi
